@@ -1,0 +1,8 @@
+{
+  "forge_marker": 1,
+  "defaults": { "model": "necromancy:particle_iron" },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

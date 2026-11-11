@@ -1,0 +1,6 @@
+{
+  "nightcrawler.howl": { "category": "hostile", "sounds": [ "necromancy:nightcrawler/howl" ] },
+  "nightcrawler.scream": { "category": "hostile", "sounds": [ "necromancy:nightcrawler/scream" ] },
+  "spawn": { "category": "player", "sounds": [ "necromancy:spawn" ] },
+  "tear": { "category": "hostile", "sounds": [ "necromancy:tear" ] }
+}

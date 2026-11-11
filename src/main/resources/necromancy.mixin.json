@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.electrifiedded.necromancy.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "target": "@env(DEFAULT)",
+  "mixins": [],
+  "client": [],
+  "server": [],
+  "setSourceFile": true,
+  "minVersion": "0.8.7"
+}
